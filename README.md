@@ -1,12 +1,5 @@
 ### Hi there 👋 Dev Mehta here
 
-
-<picture> 
-<img src="[/assets//images/developer.webp](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VyempobDloNm4wcTVwc3R1Y3lha3FmNWR4ZXUxbDQzMHQ2cDA1dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif)" align="right" width="350">
-</a>
-</picture>
-
-```js
 "use creativity";
 import { Person } from 'indonesia';
 
