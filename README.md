@@ -1,8 +1,14 @@
 <!-- Creativity Section -->
 ### "use creativity";
-<div>
-   
-    <pre><code>
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <!-- Image Section -->
+    <div style="flex: 1;">
+        <img src="https://th.bing.com/th/id/OIG1._83l.NCKGbweDvkv_U3A?w=1024&h=1024&rs=1&pid=ImgDetMain" alt="Your Image" width="200" height="200">
+    </div>
+    <!-- Code Section -->
+    <div style="flex: 1;">
+        <pre><code>
 "use creativity";
 import { Person } from 'indonesia';
 
@@ -13,8 +19,8 @@ new Person({
     website: 'https://deri.my.id',
     married: !!!true,
 }).introduce();
-    </code></pre>
-     <img src="https://th.bing.com/th/id/OIG1._83l.NCKGbweDvkv_U3A?w=1024&h=1024&rs=1&pid=ImgDetMain" alt="Your Image" width="200" height="200">
+        </code></pre>
+    </div>
 </div>
 
 # 💫 About Me:
