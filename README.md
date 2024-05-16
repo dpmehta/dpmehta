@@ -1,7 +1,7 @@
 <!-- Creativity Section -->
 ### "use creativity";
 <div>
-    <img src="path_to_your_image" alt="Your Image" width="200" height="200">
+    <img src="https://th.bing.com/th/id/OIG1._83l.NCKGbweDvkv_U3A?w=1024&h=1024&rs=1&pid=ImgDetMain" alt="Your Image" width="200" height="200">
     <pre><code>
 "use creativity";
 import { Person } from 'indonesia';
