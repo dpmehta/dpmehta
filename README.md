@@ -1,6 +1,12 @@
 
-  <code align="left">
-  "use creativity";
+<picture> 
+
+<img src="https://th.bing.com/th/id/OIG1._83l.NCKGbweDvkv_U3A?w=1024&h=1024&rs=1&pid=ImgDetMain" align="right" width="350">
+</a>
+</picture>
+
+```js
+"use creativity";
 import { Person } from 'indonesia';
 
 new Person({
@@ -10,13 +16,10 @@ new Person({
     website: 'https://deri.my.id',
     married: !!!true,
 }).introduce();
-</code>
+```
 
 
-<!-- Right Image -->
-<p align="right">
-  <img src="https://th.bing.com/th/id/OIG1._83l.NCKGbweDvkv_U3A?w=1024&h=1024&rs=1&pid=ImgDetMain" width="200" alt="Right Image">
-</p>
+
 
 # 💫 About Me:
 👨‍💻Former Full stack Web Developer Intern @RKIT PVT. LTD.<br>💻MERN Enthusiast<br>🤓Javascript geek<br>🌱Lifelong learner<br>🌟With flair of DSA<br>🌐Explore My GitHub https://github.com/dpmehta<br>✉️Connect With me at dpmehta2306@gmail.com<br>
