@@ -1,7 +1,7 @@
 
 <picture> 
 
-<img src="https://th.bing.com/th/id/OIG4.FFHLk42jzw6Dys4fn9F1?w=1024&h=1024&rs=1&pid=ImgDetMain" align="right" width="350">
+<img src="https://img.freepik.com/free-vector/programmer-concept-illustration_114360-2417.jpg?w=740&t=st=1715877987~exp=1715878587~hmac=9ec61dc029dcd25812663d3ec4f648b003c2edd36484b432eedb5ba6be033b5e" align="right" width="350">
 </a>
 </picture>
 
