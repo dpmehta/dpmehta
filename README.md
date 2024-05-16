@@ -1,7 +1,7 @@
 
 <picture> 
 
-<img src="https://th.bing.com/th/id/OIG1._83l.NCKGbweDvkv_U3A?w=1024&h=1024&rs=1&pid=ImgDetMain" align="right" width="350">
+<img src="https://th.bing.com/th/id/OIG4.FFHLk42jzw6Dys4fn9F1?w=1024&h=1024&rs=1&pid=ImgDetMain" align="right" width="350">
 </a>
 </picture>
 
