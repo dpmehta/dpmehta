@@ -1,9 +1,5 @@
-<!-- Creativity Section -->
-<div style="display: flex; align-items: center; justify-content: space-between;">
-    <!-- Code Section -->
-    <div style="flex: 1;">
-        <pre><code>
-"use creativity";
+<p align="left">
+  "use creativity";
 import { Person } from 'indonesia';
 
 new Person({
@@ -13,13 +9,12 @@ new Person({
     website: 'https://deri.my.id',
     married: !!!true,
 }).introduce();
-        </code></pre>
-    </div>
-    <!-- Image Section -->
-    <div style="flex: 1;">
-        <img src="https://th.bing.com/th/id/OIG1._83l.NCKGbweDvkv_U3A?w=1024&h=1024&rs=1&pid=ImgDetMain" alt="Your Image" width="200" height="200">
-    </div>
-</div>
+</p>
+
+<!-- Right Image -->
+<p align="right">
+  <img src="https://th.bing.com/th/id/OIG1._83l.NCKGbweDvkv_U3A?w=1024&h=1024&rs=1&pid=ImgDetMain" width="200" alt="Right Image">
+</p>
 
 # 💫 About Me:
 👨‍💻Former Full stack Web Developer Intern @RKIT PVT. LTD.<br>💻MERN Enthusiast<br>🤓Javascript geek<br>🌱Lifelong learner<br>🌟With flair of DSA<br>🌐Explore My GitHub https://github.com/dpmehta<br>✉️Connect With me at dpmehta2306@gmail.com<br>
