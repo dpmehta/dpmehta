@@ -1,11 +1,5 @@
 <!-- Creativity Section -->
-### "use creativity";
-
 <div style="display: flex; align-items: center; justify-content: space-between;">
-    <!-- Image Section -->
-    <div style="flex: 1;">
-        <img src="https://th.bing.com/th/id/OIG1._83l.NCKGbweDvkv_U3A?w=1024&h=1024&rs=1&pid=ImgDetMain" alt="Your Image" width="200" height="200">
-    </div>
     <!-- Code Section -->
     <div style="flex: 1;">
         <pre><code>
@@ -20,6 +14,10 @@ new Person({
     married: !!!true,
 }).introduce();
         </code></pre>
+    </div>
+    <!-- Image Section -->
+    <div style="flex: 1;">
+        <img src="https://th.bing.com/th/id/OIG1._83l.NCKGbweDvkv_U3A?w=1024&h=1024&rs=1&pid=ImgDetMain" alt="Your Image" width="200" height="200">
     </div>
 </div>
 
