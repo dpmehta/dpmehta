@@ -1,4 +1,5 @@
-<p align="left">
+
+  <code align="left">
   "use creativity";
 import { Person } from 'indonesia';
 
@@ -9,7 +10,8 @@ new Person({
     website: 'https://deri.my.id',
     married: !!!true,
 }).introduce();
-</p>
+</code>
+
 
 <!-- Right Image -->
 <p align="right">
