@@ -4,15 +4,20 @@
     <img src="path_to_your_image" alt="Your Image" width="200" height="200">
     <pre><code>
 "use creativity";
+// Unleash Creativity 🎨✨
+
+// Behold! A magical summoning of talent from the mystical land of Indonesia 🌏🔮
 import { Person } from 'indonesia';
 
+// With a flourish of imagination, a new entity emerges, crafted with purpose and passion 💫
 new Person({
     name   : 'Deri Kurniawan',
-    title  : 'Full Stack Developer',
+    title  : 'Master of the Digital Realm',
     email  : 'deri.netuchi@gmail.com',
     website: 'https://deri.my.id',
-    married: !!!true,
-}).introduce();
+    married: !!!true, // 🧙‍♂️ Married to the craft, bound by love for code
+}).introduce(); // 🎩 Behold, as the veil is lifted, revealing the boundless potential within!
+
     </code></pre>
 </div>
 
