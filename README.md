@@ -1,6 +1,6 @@
 <div style="display: flex;">
   <pre>
-    ```js
+    
     "use creativity";
     import { Person } from 'india';
     
@@ -9,7 +9,7 @@
       title : 'Exploring Opportunities',
       email : 'dpmehta2306@gmail.com',
     }).introduce();
-    ```
+    
   </pre>
   <img src="https://github.com/dpmehta/dpmehta/assets/104881208/b2d2ed2b-a154-45b3-b439-52764bc53dd1" alt="Profile Image" width="100px">
 </div>
