@@ -1,20 +1,18 @@
 
 <picture> 
 
-<img src="https://img.freepik.com/free-vector/programmer-concept-illustration_114360-2417.jpg?w=740&t=st=1715877987~exp=1715878587~hmac=9ec61dc029dcd25812663d3ec4f648b003c2edd36484b432eedb5ba6be033b5e" align="right" height="350" width="350">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm04bndxYmtkbHc4ZnhsYW9rYjBtem9zcHR3NmZocjVja2FhamoyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/06vbLCWUQcDKGFVjPt/giphy.gif" align="right" height="350" width="350">
 </a>
 </picture>
 
 ```js
 "use creativity";
-import { Person } from 'indonesia';
+import { Person } from 'india';
 
 new Person({
-    name   : 'Deri Kurniawan',
-    title  : 'Full Stack Developer',
-    email  : 'deri.netuchi@gmail.com',
-    website: 'https://deri.my.id',
-    married: !!!true,
+    name   : 'Dev Mehta',
+    title  : 'Exploring Opportunities',
+    email  : 'dpmehta2306@gmail.com',
 }).introduce();
 ```
 
