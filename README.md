@@ -1,9 +1,7 @@
 
-![indomay32](https://github.com/dpmehta/dpmehta/assets/104881208/b2d2ed2b-a154-45b3-b439-52764bc53dd1)
-
-
-<div style="margin:20px 0">
-  
+<!-- Profile and Code -->
+<div align="center">
+  <img src="https://github.com/dpmehta/dpmehta/assets/104881208/b2d2ed2b-a154-45b3-b439-52764bc53dd1" alt="Profile Image" width="200px">
 </div>
 
 ```js
