@@ -1,8 +1,8 @@
 
 <picture> 
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm04bndxYmtkbHc4ZnhsYW9rYjBtem9zcHR3NmZocjVja2FhamoyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/06vbLCWUQcDKGFVjPt/giphy.gif" align="right" height="350" width="350">
-</a>
+<img  style="margin-right: 20px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm04bndxYmtkbHc4ZnhsYW9rYjBtem9zcHR3NmZocjVja2FhamoyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/06vbLCWUQcDKGFVjPt/giphy.gif" align="right"  width="350">
+
 </picture>
 
 ```js
@@ -15,24 +15,6 @@ new Person({
     email  : 'dpmehta2306@gmail.com',
 }).introduce();
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # 💫 About Me:
