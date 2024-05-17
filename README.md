@@ -1,7 +1,5 @@
 <picture> 
-
-<img src="https://media.istockphoto.com/id/1356364287/photo/close-up-focus-on-persons-hands-typing-on-the-desktop-computer-backlit-keyboard-screens-show.webp?b=1&s=170667a&w=0&k=20&c=yCgo02F66I8b1rgmnSXTyeN42k16-rti3iWszjZijWM=" align="right" height="250" width="250">
-</a>
+![indomay32](https://github.com/dpmehta/dpmehta/assets/104881208/b2d2ed2b-a154-45b3-b439-52764bc53dd1)
 </picture>
 
 <div style="margin:20px 0">
