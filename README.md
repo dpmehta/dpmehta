@@ -6,14 +6,12 @@
 
 ```js
 "use creativity";
-import { Person } from 'indonesia';
+import { Person } from 'india';
 
 new Person({
-    name   : 'Deri Kurniawan',
-    title  : 'Full Stack Developer',
-    email  : 'deri.netuchi@gmail.com',
-    website: 'https://deri.my.id',
-    married: !!!true,
+  name  : 'Dev Mehta',
+  title : 'Exploring Opportunities',
+  email : 'dpmehta2306@gmail.com',
 }).introduce();
 ```
 
