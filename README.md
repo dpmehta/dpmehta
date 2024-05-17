@@ -1,7 +1,4 @@
-
-<!-- Profile and Code -->
-<div align="center">
-
+```js
 "use creativity";
 import { Person } from 'india';
 
@@ -10,11 +7,11 @@ new Person({
     title  : 'Exploring Opportunities',
     email  : 'dpmehta2306@gmail.com',
 }).introduce();
+```
+<div align="right">
 
   <img src="https://github.com/dpmehta/dpmehta/assets/104881208/b2d2ed2b-a154-45b3-b439-52764bc53dd1" alt="Profile Image" width="200px">
 </div>
-
-
 
 
 # 💫 About Me:
