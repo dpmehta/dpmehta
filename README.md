@@ -1,20 +1,21 @@
+<picture> 
 
+<img src="https://github.com/dpmehta/dpmehta/assets/104881208/b2d2ed2b-a154-45b3-b439-52764bc53dd1" align="right" width="350">
 
-<div style="display: flex;">
-  <img src="https://github.com/dpmehta/dpmehta/assets/104881208/b2d2ed2b-a154-45b3-b439-52764bc53dd1" alt="Profile Image" width="150px" height="150px"> 
- 
+</picture>
+
 ```js
 "use creativity";
-import { Person } from 'india';
+import { Person } from 'indonesia';
 
 new Person({
-  name  : 'Dev Mehta',
-  title : 'Exploring Opportunities',
-  email : 'dpmehta2306@gmail.com',
+    name   : 'Deri Kurniawan',
+    title  : 'Full Stack Developer',
+    email  : 'deri.netuchi@gmail.com',
+    website: 'https://deri.my.id',
+    married: !!!true,
 }).introduce();
 ```
- 
-</div>
 
 
 # 💫 About Me:
