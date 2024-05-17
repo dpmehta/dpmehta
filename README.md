@@ -1,6 +1,6 @@
 <picture> 
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm04bndxYmtkbHc4ZnhsYW9rYjBtem9zcHR3NmZocjVja2FhamoyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/06vbLCWUQcDKGFVjPt/giphy.gif" align="right" height="250" width="250">
+<img src="https://media.istockphoto.com/id/1356364287/photo/close-up-focus-on-persons-hands-typing-on-the-desktop-computer-backlit-keyboard-screens-show.webp?b=1&s=170667a&w=0&k=20&c=yCgo02F66I8b1rgmnSXTyeN42k16-rti3iWszjZijWM=" align="right" height="250" width="250">
 </a>
 </picture>
 
