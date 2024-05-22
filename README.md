@@ -17,7 +17,7 @@ new Person({
 
 
 # 💫 About Me:
-👨‍💻Former Full stack Web Developer Intern @RKIT PVT. LTD.<br>💻MERN Enthusiast<br>🤓Javascript geek<br>🌱Lifelong learner<br>🌟With flair of DSA<br>🌐Explore My GitHub https://github.com/dpmehta<br>✉️Connect With me at dpmehta2306@gmail.com<br>
+👨‍💻Former Full stack Web Developer Intern @RKIT PVT. LTD.<br>💻MERN Enthusiast<br>🤓Javascript geek<br>🌱Lifelong learner<br>🌟With flair of DSA<br>🏆SSIP Hackathon Finalist <br>✉️Connect With me at dpmehta2306@gmail.com<br>
 
 
 ## 🌐 Socials:
