@@ -36,6 +36,11 @@ new Person({
 ## Wakatime Stats
 ![Wakatime Stats](https://wakatime.com/share/@dpmehta/cfa474e1-f212-42a8-90ec-60c22b02b2be.svg)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dpmehta&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+
+https://github-profile-trophy.vercel.app/?username=dpmehta&theme=nord
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
